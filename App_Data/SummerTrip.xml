@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<Root>
+  <trip>
+    <TripID>1</TripID>
+    <Name>Jose Malave</Name>
+    <Email>josemalave167@gmail.com</Email>
+    <Mobile>003532869436</Mobile>
+  </trip>
+  <trip>
+    <TripID>2</TripID>
+    <Name>Fernanada Oconner</Name>
+    <Email>fer67@gmail.com</Email>
+    <Mobile>455227822220</Mobile>
+  </trip>
+  <trip>
+    <TripID>3</TripID>
+    <Name>Brian McEntee</Name>
+    <Email>mcentte@gmail.com</Email>
+    <Mobile>003532869436</Mobile>
+  </trip>
+  <trip>
+    <TripID>4</TripID>
+    <Name>Christina O'Brien</Name>
+    <Email>chris67@gmail.com</Email>
+    <Mobile>003532869436</Mobile>
+  </trip>
+  <trip>
+    <TripID>5</TripID>
+    <Name>Ciara Moore</Name>
+    <Email>ciara@gmail.com</Email>
+    <Mobile>00353869745</Mobile>
+  </trip>
+  <trip>
+    <Name>a</Name>
+    <Email />
+    <Mobile />
+  </trip>
+  <trip>
+    <Name>hola</Name>
+    <Email />
+    <Mobile />
+  </trip>
+</Root>

@@ -1,0 +1,122 @@
+﻿
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 5px;
+    padding-right: 5px;
+   
+}
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #2B3856;
+	margin: 0;
+    padding: 0;
+}
+.justify{
+    text-align: justify;
+
+}
+.h2 {
+    text-align:center;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+  .jumbotron {
+    background-size: cover;
+    background-image: url(../images/banner.jpg);
+    margin-bottom: auto;
+    color: black;
+    }
+.logo{
+    width:50px;
+    height:50px;
+
+}
+
+.logo2{
+    width:100px;
+    height:100px;
+
+}
+.heading-primary {
+  font-size: 220%;
+  font-weight: 600;
+  font-family: inherit;
+  text-align: center;
+  padding: 10px 0;
+}
+.blue {
+    color: #2B3856;
+
+}
+
+.sub-heading {
+  font-style: italic;
+  text-align: center;
+  padding: 0 0 10px 0;
+}
+
+/*navbar*/
+.navbar-default {
+    text-transform: uppercase;
+    font-size:medium;
+    background-color: white;
+    padding-left: 250px;
+     font-weight: 600;
+
+}
+#formxml{
+    background-color: blue;
+
+
+}
+
+/*carrusel */
+.carousel-inner img {
+    
+    width: 100%; /* Set width to 100% */
+    height: 200px;
+    margin: auto;
+}
+
+.carousel-caption h3 {
+    color: #fff !important;
+}
+
+.superContainer {
+            margin: auto;
+            max-width: 900px;
+          }	
+.border{
+     border: 1px dashed #ddd;
+	box-shadow: 0 0 0 3px #fff, 0 0 0 5px #ddd, 0 0 0 10px #fff, 0 0 2px 10px #eee;
+    background-color: #fff; 
+}
+ 
+.padding{
+    padding-left: 30px;
+
+}
+.internet {
+    margin-left: 600px;
+
+}
+.superContainer2 {
+            margin: auto;
+            max-width: 1000px;
+          }	
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+}
+
+/* Responsive: Portrait tablets and up */
+
+
